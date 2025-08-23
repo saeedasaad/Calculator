@@ -2,7 +2,7 @@
 
 A simple calculator built with **HTML**, **CSS**, and **JavaScript**.
 
-🔗 **[Live Demo](https://saeedasaad.github.io/Calculatorr/)**
+🔗 **[Live Demo](https://saeedasaad.github.io/Calculator/)**
 
 ---
 
@@ -38,7 +38,7 @@ Calculator/
 
 |View |
 |---------------------------|
-| <img src="images/desktop-screenshot.png" width="400"/>  |
+| <img src="images/Screenshot.jpeg" width="400"/>  |
 
 ---
 ## 📌 How to Use
