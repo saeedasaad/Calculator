@@ -6,7 +6,7 @@ A simple calculator built with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## ✨ Features
+##  Features
 - Addition, Subtraction, Multiplication, Division
 - **Clear (AC)** and **Backspace (DEL)** functions
 - **Keyboard support** for digits, operators, Enter (=), and Backspace
@@ -14,14 +14,14 @@ A simple calculator built with **HTML**, **CSS**, and **JavaScript**.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla JS)  
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```text
 Calculator/
@@ -34,14 +34,14 @@ Calculator/
 ```
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 |View |
 |---------------------------|
 | <img src="images/Screenshot.jpeg" width="400"/>  |
 
 ---
-## 📌 How to Use
+##  How to Use
 1. Clone the repo  
    ```bash
    git clone https://github.com/saeedasaad/Calculator.git
